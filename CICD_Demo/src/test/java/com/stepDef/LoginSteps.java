@@ -23,7 +23,7 @@ public class LoginSteps {
 	    driver = new ChromeDriver();
 	    driver.manage().window().maximize();
 	    Thread.sleep(2000);
-	    driver.get("file:///C:/Docs/CMU/Job%20Prep/QA/CICD/Online_Fruits_And_Veggies_DEVOPS/index.html");
+	    driver.get("ec2-18-191-207-33.us-east-2.compute.amazonaws.com";
 	    Thread.sleep(2000);
 	    
 	}
